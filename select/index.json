@@ -1,72 +1,65 @@
 {
   "version": 1,
-  "base_track": "憂、燦々",
+  "base_track": "神様のダンス",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-02-18T18:51:44.079175Z",
+  "createdAt": "2026-03-25T13:58:42.581575Z",
   "candidates": [
     {
       "id": "lrclib_1",
       "source": "lrclib",
-      "title": "憂、燦々 - Yu, Sansan",
+      "title": "神様のダンス",
       "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/01_憂、燦々_-_Yu,_Sansan_Yorushika.lrc"
+      "path": "select/01_神様のダンス_Yorushika.lrc"
     },
     {
       "id": "lrclib_2",
       "source": "lrclib",
-      "title": "憂、燦々",
-      "artist": "Yorushika",
+      "title": "神様のダンス",
+      "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/02_憂、燦々_Yorushika.lrc"
+      "path": "select/02_神様のダンス_ヨルシカ.lrc"
     },
     {
       "id": "lrclib_3",
       "source": "lrclib",
-      "title": "憂、燦々",
+      "title": "神様のダンス (Dance of You)",
       "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/03_憂、燦々_Yorushika.lrc"
+      "path": "select/03_神様のダンス_(Dance_of_You)_Yorushika.lrc"
     },
     {
       "id": "lrclib_4",
       "source": "lrclib",
-      "title": "憂、燦々",
-      "artist": "ヨルシカ",
+      "title": "神様のダンス - Dance of You",
+      "artist": "Yorushika",
       "has_synced": true,
-      "path": "select/04_憂、燦々_ヨルシカ.lrc"
+      "path": "select/04_神様のダンス_-_Dance_of_You_Yorushika.lrc"
     },
     {
       "id": "lrclib_5",
       "source": "lrclib",
-      "title": "憂、燦々 - Yu, Sansan",
-      "artist": "Yorushika",
+      "title": "神様のダンス",
+      "artist": "Yorushika ヨルシカ",
       "has_synced": true,
-      "path": "select/05_憂、燦々_-_Yu,_Sansan_Yorushika.lrc"
-    },
-    {
-      "id": "lrclib_6",
-      "source": "lrclib",
-      "title": "憂、燦々 - Yu,Sansan",
-      "artist": "CreepHyp",
-      "has_synced": true,
-      "path": "select/06_憂、燦々_-_Yu,Sansan_CreepHyp.lrc"
-    },
-    {
-      "id": "lrclib_7",
-      "source": "lrclib",
-      "title": "憂、燦々",
-      "artist": "クリープハイプ",
-      "has_synced": true,
-      "path": "select/07_憂、燦々_クリープハイプ.lrc"
+      "path": "select/05_神様のダンス_Yorushika_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
       "source": "petitlyrics",
-      "title": "憂、燦々",
+      "title": "神様のダンス",
       "artist": "ヨルシカ",
       "has_synced": false,
-      "path": "select/pl_01_憂、燦々_ヨルシカ.txt"
+      "path": "select/pl_01_神様のダンス_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "神様のダンス",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_神様のダンス_ヨルシカ.lrc",
+      "repo_name": "TTigsR3JbZ4"
     }
   ]
 }
